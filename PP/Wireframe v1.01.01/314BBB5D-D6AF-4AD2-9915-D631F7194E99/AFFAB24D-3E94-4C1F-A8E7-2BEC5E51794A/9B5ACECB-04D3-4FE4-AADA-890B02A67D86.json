@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9B5ACECB-04D3-4FE4-AADA-890B02A67D86",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "09567F66-348E-4778-9854-71A752EC946F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A75BC6B1-696E-48DF-A3A2-5C7623ECA7B5",
+    "height": 94,
+    "width": 359,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "wireframe / card / mini / stars",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7BF2D8ED-223F-4479-BF29-D7C594135770",
+      "overrideName": "0BCAD328-E9C8-4F97-B320-93AA2DBCC87B_stringValue",
+      "value": "3 min walk"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E3960C13-CD7E-4526-ABD2-C3F03F4E2437",
+      "overrideName": "79D19114-FA77-44F2-8245-E6B89915F7E5_stringValue",
+      "value": "309 Ernser Fort Suite 6"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "84F6E9C5-D764-4031-BFAF-42269C08FC31",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CAA250DC-FB5A-4018-B8B2-7A86E969D236",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

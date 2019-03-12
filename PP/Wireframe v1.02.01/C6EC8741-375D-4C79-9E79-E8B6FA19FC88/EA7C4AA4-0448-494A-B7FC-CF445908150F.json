@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EA7C4AA4-0448-494A-B7FC-CF445908150F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6FB1FFEF-6312-4F0C-8F4E-F388DEAA0525",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7FA24E7B-D3C9-4A0C-82C8-FE6B15E96DDB",
+    "height": 208,
+    "width": 359,
+    "x": 8,
+    "y": 72
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "wireframe / card / expanded 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A79FDD21-05CC-4CBE-85C2-603C7066D56B",
+      "overrideName": "85A1A799-1A86-4B93-9250-29219D5F0C2F_stringValue",
+      "value": "5 min walk"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "66E16C84-1A56-4EA3-B35C-C314AFCD36C3",
+      "overrideName": "01B7FF73-7C16-45F1-9FB9-0EAB17A4FFC5_stringValue",
+      "value": "309 Ernser Fort Suite 6"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C1BA2C65-7E83-4BB2-8A4F-923CE113554D",
+      "overrideName": "39814261-B334-48DF-962D-5B5BAE788972/F9AF55BE-3F3C-4384-850E-C7F916A6CEB2_stringValue",
+      "value": "1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A63C559F-36A1-42AF-B9DE-BF9CEF0F4011",
+      "overrideName": "6832F2C2-6178-474E-AB56-BEBD43D02067_symbolID",
+      "value": "18CBE68E-5296-4493-A420-337F430A6AF9"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C8A7F413-F40B-49F6-8CB9-50053792AF91",
+      "overrideName": "E059E12F-87F0-4CCD-82FF-60A897A2E079_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "29B3B8AA-221D-4A07-9BA5-B283ED7F474D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "79EBDFBB-DEA5-4BD4-8988-498A74725A42",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

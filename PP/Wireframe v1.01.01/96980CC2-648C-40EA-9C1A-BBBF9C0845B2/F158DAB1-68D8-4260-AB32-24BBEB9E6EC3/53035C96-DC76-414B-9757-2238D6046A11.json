@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "53035C96-DC76-414B-9757-2238D6046A11",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4B056F4A-7F2D-4876-8BE1-FB1F4C39C614",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "40E19273-2AEF-46D2-8B3D-753231AF77F1",
+    "height": 93.82061068702296,
+    "width": 359,
+    "x": 0,
+    "y": 502.0400763358779
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "wireframe / card / mini / rate 0-10 / ordered",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F001D361-0FB3-4BB7-81B5-672FC5B98996",
+      "overrideName": "3095748D-D7BE-4D89-AB5A-E41633A5EB1B_stringValue",
+      "value": "574 Alejandra Apt. 208"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "305FC59F-AA6A-40AE-9A29-5FA93D3809C6",
+      "overrideName": "84D91139-A401-4378-8E10-386AC3B722E8_stringValue",
+      "value": "10 min walk"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "03BD425C-C346-4F8F-AEFF-CC5D0E840212",
+      "overrideName": "A53F560D-64F0-4CBC-9ABB-AAB7C56C0ECD_stringValue",
+      "value": "5"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B0F1E07A-F055-4986-BC8B-E66CC133574E",
+      "overrideName": "B84C36B2-B6CB-428C-B092-20FA7ADA61DD/2D55F952-17DD-41A5-9B70-1D2690579109_stringValue",
+      "value": "5.8"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E216EC02-85E8-408B-9DC5-68322EABF619",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "24B01766-4216-480C-85C1-B746832DE3BD",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

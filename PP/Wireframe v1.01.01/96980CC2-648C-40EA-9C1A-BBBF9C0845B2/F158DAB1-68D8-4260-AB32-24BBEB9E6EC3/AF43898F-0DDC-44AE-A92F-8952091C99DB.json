@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AF43898F-0DDC-44AE-A92F-8952091C99DB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BECD73D3-277C-44FD-AD50-D4E9BD134B4A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "98A67D05-ECCF-4B74-A7BA-68C46730F66B",
+    "height": 93.8206106870229,
+    "width": 359,
+    "x": 0,
+    "y": 196.6240458015267
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "wireframe / card / mini / rate 0-10 / ordered",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C9CFE9DC-367B-49B1-9D77-92417D93F432",
+      "overrideName": "3095748D-D7BE-4D89-AB5A-E41633A5EB1B_stringValue",
+      "value": "684 Stroman Mountain"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7A3A6447-2327-410D-8466-77F9F6B88F29",
+      "overrideName": "84D91139-A401-4378-8E10-386AC3B722E8_stringValue",
+      "value": "5 min walk"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6366EFE3-21E5-4F23-B40E-E801228A56C4",
+      "overrideName": "A53F560D-64F0-4CBC-9ABB-AAB7C56C0ECD_stringValue",
+      "value": "2"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "98B24326-1106-42FD-86EF-65B5D639FB2C",
+      "overrideName": "B84C36B2-B6CB-428C-B092-20FA7ADA61DD/2D55F952-17DD-41A5-9B70-1D2690579109_stringValue",
+      "value": "6.0"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7C5BF7A7-49B3-443F-AC11-8206538CC536",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "24B01766-4216-480C-85C1-B746832DE3BD",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F676E72B-F146-43E5-BB15-8F8094F5BB58",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C9969B17-DC74-462C-B5D9-30650DB11B4C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0E5A140B-E780-429A-8642-F6ACCDF7E5DA",
+    "height": 38,
+    "width": 118,
+    "x": 204,
+    "y": 356
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "wireframe / button / c2a",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E606B6FC-3AC2-44CC-9836-4AD300FC8EBB",
+      "overrideName": "575A44B2-1AF6-4216-BF1A-D3744B7428D9_stringValue",
+      "value": "No"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9ACE4E65-863F-476F-BD3F-0D199C358406",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A215D0CB-D4FC-4E97-979B-5670B08EE920",
+  "verticalSpacing": 0
+}

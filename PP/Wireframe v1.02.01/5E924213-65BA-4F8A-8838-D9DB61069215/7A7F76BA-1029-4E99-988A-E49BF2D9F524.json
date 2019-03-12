@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7A7F76BA-1029-4E99-988A-E49BF2D9F524",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BE46ACE7-07C2-4489-BC39-6C9CDE028F46",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "210D81D5-743C-43BA-A74D-5023DA4C076E",
+    "height": 208,
+    "width": 359,
+    "x": 8,
+    "y": 72
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "wireframe / card / expanded 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A79FDD21-05CC-4CBE-85C2-603C7066D56B",
+      "overrideName": "85A1A799-1A86-4B93-9250-29219D5F0C2F_stringValue",
+      "value": "15 min walk"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "66E16C84-1A56-4EA3-B35C-C314AFCD36C3",
+      "overrideName": "01B7FF73-7C16-45F1-9FB9-0EAB17A4FFC5_stringValue",
+      "value": "Berghain Panorama Bar"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E0EE42AE-2F1C-4F01-9485-FC3ED459EABA",
+      "overrideName": "39814261-B334-48DF-962D-5B5BAE788972/F9AF55BE-3F3C-4384-850E-C7F916A6CEB2_stringValue",
+      "value": "1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BCA63AA8-51A4-476A-8458-B01ADBC5C290",
+      "overrideName": "E059E12F-87F0-4CCD-82FF-60A897A2E079_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9A024D72-9D9F-417A-8A2E-11B5AA9004D9",
+      "overrideName": "E50BB007-0F52-4876-93FA-CAAADCD62EAC_symbolID",
+      "value": "EE9E7BE8-8424-4AA0-8561-459345763F65"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E5AB20A7-97F8-4145-A1D4-A6FE7DD6574E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "79EBDFBB-DEA5-4BD4-8988-498A74725A42",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

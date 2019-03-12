@@ -1,0 +1,113 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "542A972F-4519-4CB8-92AA-1FF2EF19AC46",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 500,
+    "width": 724,
+    "x": 525,
+    "y": 194
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "96BE373C-0F47-4C4B-A67C-FF0965202DC5"
+    },
+    {
+      "class": "group",
+      "id": "0779A2B1-6FD3-49BE-BD48-8C53D53EA32F"
+    },
+    {
+      "class": "group",
+      "id": "A22B6958-C2A4-42ED-8AEE-41C20AEAE06A"
+    },
+    {
+      "class": "group",
+      "id": "CE795458-9798-4BC3-9998-7FCE1A5DEF44"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CB7976F5-01D0-471F-84DF-B1183AD762D8"
+    },
+    {
+      "class": "text",
+      "id": "A9F2D6B0-EA68-4D7C-A7E9-72B2055185CF"
+    },
+    {
+      "class": "group",
+      "id": "9AECB236-BC5B-472D-9CAE-BF0CF48BF06A"
+    }
+  ],
+  "name": "Persona - Sarah",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

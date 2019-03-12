@@ -1,0 +1,82 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.2175542091836735,
+    "green": 0.2175542091836735,
+    "red": 0.2175542091836735
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 216,
+  "clippingMaskMode": 0,
+  "do_objectID": "07D9692C-2D9B-4D5E-8BF7-B131908C04D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "37CF9FB4-A582-4182-8E2F-DDE146961FE6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "330EB1BE-D874-47B0-A436-DDC071EB49CE",
+    "height": 24,
+    "width": 24,
+    "x": 750,
+    "y": 792
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C3C18281-430C-4DCA-9F01-292160C9D98C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3ED7BEF3-D53F-4CC4-8934-088FDFDFCA9D"
+    }
+  ],
+  "name": "wireframe / icon / toilet / white",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D960FF41-D6D4-4D3B-AB89-F42D0B43EC76",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "87E52739-4E05-4D02-AD13-F5E0F32A9CCC",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4714E086-CE73-4915-9BB1-AF6C0F49183B",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B2C4ACD6-3D1A-4AF2-937C-7C7A3ED972C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "15C98EA8-0C56-4347-B401-1732CAEBC45A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E1D902C4-FD16-41D4-8120-F985C1C065C7",
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -659,
+    "do_objectID": "462B9BA7-1843-422D-8F0B-F11779430317",
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "0F4E3E36-133E-4CBF-8E6E-91281699F7E4"
+    },
+    {
+      "class": "artboard",
+      "id": "FEF95673-07B0-4AA5-9597-6EC3D96F399A"
+    },
+    {
+      "class": "artboard",
+      "id": "314BBB5D-D6AF-4AD2-9915-D631F7194E99"
+    },
+    {
+      "class": "artboard",
+      "id": "96980CC2-648C-40EA-9C1A-BBBF9C0845B2"
+    },
+    {
+      "class": "artboard",
+      "id": "3CE17289-34ED-4481-BD93-2A7B13F9C69D"
+    }
+  ],
+  "name": "Wireframe v1.01.01",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C2058981-9EF6-4CC1-88F5-C7DFEDB2BCAF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1,
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -453,
+    "do_objectID": "DF121A22-7AA1-4ED8-A5F3-3CB96FD045D7",
+    "guides": [
+    ]
+  }
+}

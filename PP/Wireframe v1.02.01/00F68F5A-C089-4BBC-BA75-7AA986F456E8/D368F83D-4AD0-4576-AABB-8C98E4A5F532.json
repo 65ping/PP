@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D368F83D-4AD0-4576-AABB-8C98E4A5F532",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F4BE703E-44E1-4CF5-9850-5E5426D734B9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A5042FD2-4CDC-4471-931B-EBE376B1AF65",
+    "height": 208,
+    "width": 359,
+    "x": 8,
+    "y": 72
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "wireframe / card / expanded 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A79FDD21-05CC-4CBE-85C2-603C7066D56B",
+      "overrideName": "85A1A799-1A86-4B93-9250-29219D5F0C2F_stringValue",
+      "value": "10 min walk"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "66E16C84-1A56-4EA3-B35C-C314AFCD36C3",
+      "overrideName": "01B7FF73-7C16-45F1-9FB9-0EAB17A4FFC5_stringValue",
+      "value": "309 Ernser Fort Suite 6"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C1BA2C65-7E83-4BB2-8A4F-923CE113554D",
+      "overrideName": "39814261-B334-48DF-962D-5B5BAE788972/F9AF55BE-3F3C-4384-850E-C7F916A6CEB2_stringValue",
+      "value": "1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "31E81734-2265-42DD-BB34-647372F4FAF6",
+      "overrideName": "E059E12F-87F0-4CCD-82FF-60A897A2E079_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B7DE5D6B-D3D6-4170-82BF-E5299D90442A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "79EBDFBB-DEA5-4BD4-8988-498A74725A42",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

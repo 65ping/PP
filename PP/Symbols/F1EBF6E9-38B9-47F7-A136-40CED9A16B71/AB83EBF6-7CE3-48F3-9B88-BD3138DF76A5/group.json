@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AB83EBF6-7CE3-48F3-9B88-BD3138DF76A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4CF93A41-3835-4DEB-B66E-B99BD5580F74",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "32C0CC21-D6BC-4B29-9D38-768DE94E8380",
+    "height": 10,
+    "width": 16,
+    "x": -3,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": true,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "37CE201A-AC14-4A6A-AE63-13FC468037FF"
+    },
+    {
+      "class": "shapePath",
+      "id": "AFBF1DD4-BF31-4966-A70B-5863ADC278A5"
+    }
+  ],
+  "name": "wireframe / icon / arrow / up",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": -90,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1DC4551E-38E4-4C47-8A30-57BDF30D838A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

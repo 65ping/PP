@@ -1,0 +1,204 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "9B761BBB-5291-4D84-9C74-61A18628B72D",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0BEE0BEA-D97F-49B6-816E-64F5A1FC3619",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F1D0A4E2-48DA-4072-A64D-0E9CE813F43F",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D1B0099E-DC15-4F3E-9E12-91D93D4A8F8F",
+    "height": 1185,
+    "width": 1784,
+    "x": 1052,
+    "y": -569
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0AFF8712-8805-4480-B1B4-E30126846759",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "5BA660BA-611B-49A9-AFF9-0D0EBA909CA5"
+    },
+    {
+      "class": "text",
+      "id": "2D79B25C-0EF0-4313-9737-6270D50DC178"
+    },
+    {
+      "class": "text",
+      "id": "5A46EC4E-F184-482D-A0E3-AA4F89895087"
+    },
+    {
+      "class": "text",
+      "id": "4202AB60-EF36-4069-8E7F-60067A4D073A"
+    },
+    {
+      "class": "text",
+      "id": "DAE34BE5-63B1-441B-8890-FBE634F13069"
+    },
+    {
+      "class": "text",
+      "id": "E9D3F375-A2C7-4DD3-9650-F4041B9896B5"
+    },
+    {
+      "class": "text",
+      "id": "DF4E94A4-B6D5-42C1-ACD4-AD0D93F32979"
+    },
+    {
+      "class": "text",
+      "id": "8404950C-27E7-4D49-B38A-E19DA8E6CCBD"
+    },
+    {
+      "class": "text",
+      "id": "341D7590-0AAB-4280-AFCE-C2245D87568A"
+    },
+    {
+      "class": "text",
+      "id": "661FD61A-C79A-40FF-BE29-D193598EABF4"
+    },
+    {
+      "class": "text",
+      "id": "1B498EAD-E177-401F-BED3-A71C1E1D5402"
+    },
+    {
+      "class": "text",
+      "id": "FEB42055-CEE8-4F1D-AC62-A99C2A876958"
+    },
+    {
+      "class": "text",
+      "id": "ABE96385-1499-4122-B457-3F2C589D38ED"
+    },
+    {
+      "class": "text",
+      "id": "9962D639-0088-4ECF-9D24-66EF6AE3F900"
+    },
+    {
+      "class": "text",
+      "id": "767AFB3C-D3E4-41E5-99E6-2E736318F267"
+    },
+    {
+      "class": "text",
+      "id": "CF47280E-32D9-490E-B2BD-42D3D7FFEF4E"
+    },
+    {
+      "class": "text",
+      "id": "BBFE54D2-DE8F-4E8F-A46F-6E4E748A07CE"
+    },
+    {
+      "class": "text",
+      "id": "6688558A-0FA4-4BE8-B793-22682C286AD5"
+    },
+    {
+      "class": "text",
+      "id": "0179A008-EF19-44CD-AD14-4B20883E9CF0"
+    },
+    {
+      "class": "text",
+      "id": "809D8ABE-A895-48D8-B1C4-F7886D6FA198"
+    },
+    {
+      "class": "text",
+      "id": "E3FA2DB7-AF48-44E2-98E4-DFDF60E0F0D6"
+    },
+    {
+      "class": "shapePath",
+      "id": "903453A2-9C05-4C4E-8F3D-27034B73C9DC"
+    },
+    {
+      "class": "shapePath",
+      "id": "E5307A2A-D395-4C6E-AD2E-0A7C5EF795E9"
+    },
+    {
+      "class": "shapePath",
+      "id": "6C1ABD03-01A2-48DB-AEA7-D2F92882E5AE"
+    },
+    {
+      "class": "shapePath",
+      "id": "391C43F8-CA1E-469C-8581-B9E4DFE61BBA"
+    },
+    {
+      "class": "shapePath",
+      "id": "0006F60B-8BF3-43CE-9F05-498F89825BB1"
+    },
+    {
+      "class": "shapePath",
+      "id": "E290B636-EAA0-4A32-9CC7-04963D6D3283"
+    },
+    {
+      "class": "shapePath",
+      "id": "5FCC9582-ACD0-41B0-8B64-3EF5FBE7CDEA"
+    }
+  ],
+  "name": "Competitive analysis Copy",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 842,
+    "name": "A4",
+    "offersLandscapeVariant": 1,
+    "width": 595
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "77416765-F180-45FC-8BDD-98C6E4DBDE6D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1AA4A274-F7BB-4CB1-8795-3C90659A1D2C",
+    "guides": [
+    ]
+  }
+}

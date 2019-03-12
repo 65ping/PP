@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "115418F2-DDFD-4875-BF1B-3937CC979A68",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6EBC58CE-9549-4149-9D91-88297528CC3B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "366CE174-64C1-45E1-8F18-E1A1470362B5",
+    "height": 94,
+    "width": 359,
+    "x": 0,
+    "y": 510
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "wireframe / card / mini / rate stars",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E4118C64-B958-420A-9B11-A7DCBFB9141C",
+      "overrideName": "C8A0F792-9D27-475C-9F5E-BD1C3C337734_stringValue",
+      "value": "5"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6A85D41C-C20F-44C2-8D57-C451CB775888",
+      "overrideName": "79D19114-FA77-44F2-8245-E6B89915F7E5_stringValue",
+      "value": "35 Schuyler Lights"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D165003D-7BEF-40DA-8A17-B1BEC7B3F931",
+      "overrideName": "0BCAD328-E9C8-4F97-B320-93AA2DBCC87B_stringValue",
+      "value": "12 min walk"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3A165992-24A0-4F1C-8C59-2B4D3B61A86F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CAA250DC-FB5A-4018-B8B2-7A86E969D236",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

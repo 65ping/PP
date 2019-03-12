@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "31669ACC-7023-4F8A-A863-24477A0CE09D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2B3658A5-CE41-4C10-A8D0-4532B655C5F3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8255DF59-6A32-470A-B073-A8D219FEDB27",
+    "height": 132,
+    "width": 359,
+    "x": 8,
+    "y": 8
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "wireframe / card / minimize",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E849AB6E-9BCC-480A-9E57-575664A85DF7",
+      "overrideName": "0A9797C6-EFF7-427B-AEE2-54C35EB57EB1_stringValue",
+      "value": "609 Edmund nt, Avenue street"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "95E9A2EC-F38B-4458-8BCA-D530D14E4601",
+      "overrideName": "0C6BF399-38DD-48B3-8CE6-F0222A2EF3D8_stringValue",
+      "value": "7 min walk"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1BC0432D-BF58-4AB1-BDBE-5A083BE15006",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4252F34A-1A67-452E-84EA-6E9BF92BB95B",
+  "verticalSpacing": 0
+}

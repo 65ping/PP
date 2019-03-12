@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C507B915-9F85-4FDF-9632-1C600C49F0E3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FA5D3C39-B0AA-4640-BD2E-442795E939E9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DA1988D7-276B-4847-B46B-4B644CAF9EC5",
+    "height": 208,
+    "width": 359,
+    "x": 0,
+    "y": 64
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "wireframe / card / expanded 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A79FDD21-05CC-4CBE-85C2-603C7066D56B",
+      "overrideName": "85A1A799-1A86-4B93-9250-29219D5F0C2F_stringValue",
+      "value": "3 min walk"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "66E16C84-1A56-4EA3-B35C-C314AFCD36C3",
+      "overrideName": "01B7FF73-7C16-45F1-9FB9-0EAB17A4FFC5_stringValue",
+      "value": "309 Ernser Fort Suite 6"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "39E25676-C80D-4CE0-A873-AF2737A50085",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "79EBDFBB-DEA5-4BD4-8988-498A74725A42",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

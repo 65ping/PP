@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EE24FE5A-B6E3-44BA-B609-041FC070CF1D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 132,
+    "width": 359,
+    "x": 8,
+    "y": 8
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "wireframe / card / minimize",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E0E45848-6523-41F0-818E-458E4CD34DDF",
+      "overrideName": "0A9797C6-EFF7-427B-AEE2-54C35EB57EB1_stringValue",
+      "value": "Berghain Panorama Bar"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "463243F9-9297-46AA-B540-35FA33B134F3",
+      "overrideName": "0C6BF399-38DD-48B3-8CE6-F0222A2EF3D8_stringValue",
+      "value": "15 min walk"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4252F34A-1A67-452E-84EA-6E9BF92BB95B",
+  "verticalSpacing": 0
+}

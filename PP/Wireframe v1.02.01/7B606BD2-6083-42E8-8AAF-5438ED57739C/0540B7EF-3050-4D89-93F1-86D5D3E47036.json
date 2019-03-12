@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0540B7EF-3050-4D89-93F1-86D5D3E47036",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 208,
+    "width": 359,
+    "x": 8,
+    "y": 72
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "wireframe / card / expanded / outdoor",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1583D0A5-F7CB-47B6-A1A3-2D0725B4D6F8",
+      "overrideName": "333B19CD-0A84-4010-9599-C2A4D0B9E621_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F12A3DC6-052F-499A-A65D-BBE4356A5BF3",
+      "overrideName": "21D55B0C-9B2D-41DD-B9AF-16A0D186AEB8_stringValue",
+      "value": "Mauerpark \nvery concealed"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8B32BD47-9465-4681-8FBA-C59F81D49870",
+      "overrideName": "E827A919-E6EA-4049-97A8-CC01168B8637_stringValue",
+      "value": "4 min walk"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6F26F2EA-F86D-4D1F-A568-559A24DD7C4D",
+  "verticalSpacing": 0
+}

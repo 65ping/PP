@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5C4CDC63-D156-42EC-B7B0-CFF1B7E36DE2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AB547D9B-DE83-44ED-9E1A-1B4A75B1C994",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "82A7559E-9DEC-4102-A64B-ABB451F30E95",
+    "height": 208,
+    "width": 359,
+    "x": 8,
+    "y": 72
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "wireframe / card / expanded 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A79FDD21-05CC-4CBE-85C2-603C7066D56B",
+      "overrideName": "85A1A799-1A86-4B93-9250-29219D5F0C2F_stringValue",
+      "value": "3 min walk"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "66E16C84-1A56-4EA3-B35C-C314AFCD36C3",
+      "overrideName": "01B7FF73-7C16-45F1-9FB9-0EAB17A4FFC5_stringValue",
+      "value": "309 Ernser Fort Suite 6"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3CB406FE-31DD-42C4-B1BF-F1F728E2EE36",
+      "overrideName": "39814261-B334-48DF-962D-5B5BAE788972/F9AF55BE-3F3C-4384-850E-C7F916A6CEB2_stringValue",
+      "value": "1"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FC1BE074-975A-4EC5-9DC8-3850754EB338",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "79EBDFBB-DEA5-4BD4-8988-498A74725A42",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

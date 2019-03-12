@@ -1,0 +1,171 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "1B6981A9-667E-4FDF-9C0C-F55DD7C988B1",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7CC0FCD1-366F-4713-8B6B-1A0BD0D9AD27",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A4AD5BE3-50AA-4976-82A4-7310186A23F2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B9B60FF8-F415-4167-AA4A-0E0E98B2D9F8",
+    "height": 667,
+    "width": 375,
+    "x": 1665,
+    "y": 5434
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BB6C41FD-94AE-4B34-A136-DBB086207367",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A2CB5AC0-FD24-411B-9339-B0D86B2DD82D"
+    },
+    {
+      "class": "shapePath",
+      "id": "0221A837-5793-4C32-888F-69C2630F6102"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FC888BE5-2592-4DF4-8A66-34810B9AE96E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8E2DF263-025F-4F79-A0FA-C1DCC28B975B"
+    },
+    {
+      "class": "group",
+      "id": "043560D7-93F5-4682-8321-319A32E7160B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "38EE37DE-822D-41B1-AEC3-33F224CFA48F"
+    },
+    {
+      "class": "shapePath",
+      "id": "8DC4715B-2FF1-4A5B-BCAD-A164B43CB5FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "07C79753-6D60-4963-ABCE-9824AF6E7298"
+    },
+    {
+      "class": "shapePath",
+      "id": "C0510237-0FC5-479D-B2EE-FF93F29EB676"
+    },
+    {
+      "class": "shapePath",
+      "id": "9A88A800-298D-449A-8168-A762CA6967B8"
+    },
+    {
+      "class": "shapePath",
+      "id": "B666D7BA-D7D4-4604-A540-FBCB300E33A5"
+    },
+    {
+      "class": "shapePath",
+      "id": "54421C35-CB1E-4AE3-A51D-BFCCDA06777D"
+    },
+    {
+      "class": "shapePath",
+      "id": "699593B2-4227-4D41-8100-3DB5036E1796"
+    },
+    {
+      "class": "shapePath",
+      "id": "CBA059CC-4202-48EC-9B7A-C790D54F325C"
+    },
+    {
+      "class": "shapePath",
+      "id": "CA211621-DC70-4D2A-BF8E-D352D943CF98"
+    },
+    {
+      "class": "shapePath",
+      "id": "5EB3AE8F-5499-43B2-8B32-E40B9A476912"
+    },
+    {
+      "class": "shapePath",
+      "id": "3BC0F336-21D3-45AD-96F7-88F37754E889"
+    },
+    {
+      "class": "shapePath",
+      "id": "7C293F6D-B86E-4376-AEC8-5F0BF8D23DFB"
+    },
+    {
+      "class": "shapePath",
+      "id": "683C1392-6785-46A2-9029-FB083E4DBF3C"
+    },
+    {
+      "class": "shapePath",
+      "id": "639C19D3-CF6F-4159-A46D-E648563D22F8"
+    },
+    {
+      "class": "shapePath",
+      "id": "65610E77-5806-439A-BAC2-5DE43C9D1D4D"
+    },
+    {
+      "class": "shapePath",
+      "id": "AD8E6086-1DE6-4603-8EE7-87B120D83BD5"
+    }
+  ],
+  "name": "4",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "842BD57B-878C-4D56-8B5D-CD9B9628E5B8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2A5A337D-357C-4C1B-9ADB-C8FF99E10A10",
+    "guides": [
+    ]
+  }
+}

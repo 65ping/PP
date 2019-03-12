@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E11F173C-7846-4492-B3E0-6FF128B3CFE9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "77299733-8943-4D3D-B491-A6FDEC56BC38",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F193B9AA-9101-42FA-862D-BDC6E5111222",
+    "height": 94,
+    "width": 359,
+    "x": 0,
+    "y": 102
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "wireframe / card / mini / rate stars",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "26B01EE9-28DF-4D07-999D-04BE07C64B3C",
+      "overrideName": "8AC35FEB-DDC0-4322-B804-D6B9E2054FE0_symbolID",
+      "value": "18CBE68E-5296-4493-A420-337F430A6AF9"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FE44DFAE-E603-4E36-A259-36FCA0B4C66A",
+      "overrideName": "0BCAD328-E9C8-4F97-B320-93AA2DBCC87B_stringValue",
+      "value": "5 min walk"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6FE41BDF-5C31-4D1E-92CB-6B955E4E289C",
+      "overrideName": "79D19114-FA77-44F2-8245-E6B89915F7E5_stringValue",
+      "value": "609 Edmund nt"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FE027B99-8BFB-4CFE-8514-F3B47E367D96",
+      "overrideName": "C8A0F792-9D27-475C-9F5E-BD1C3C337734_stringValue",
+      "value": "2"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "404B91FE-CB48-46AF-B520-DE958E7046DC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CAA250DC-FB5A-4018-B8B2-7A86E969D236",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
