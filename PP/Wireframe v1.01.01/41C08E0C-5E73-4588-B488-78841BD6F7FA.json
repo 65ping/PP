@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "41C08E0C-5E73-4588-B488-78841BD6F7FA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8884A3C9-CBB4-442F-BD38-D3A08B97B7EE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0B01F2D3-C773-499E-8782-24DEE9812086",
+    "height": 56,
+    "width": 176,
+    "x": -3764,
+    "y": 2621
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "wireframe / button / paid copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DDDC6C5E-B44A-420B-9A7D-A13E7AFD0392",
+      "overrideName": "8D4086D2-D4E8-4DA5-95CA-CC95DFF59292_stringValue",
+      "value": "paid"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3CC5987E-BD66-4A2C-B9BB-35531C5A89BF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "17FE9690-F7EE-47FE-B772-AC00DE78B905",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
