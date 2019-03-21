@@ -1,19 +1,20 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "88E6FC8B-F42A-46FD-91C8-93F47F234F1E",
+    "do_objectID": "DE8A2D1E-E674-49C1-A8A1-C2801CCE7565",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 636,
   "clippingMaskMode": 0,
-  "do_objectID": "53870293-8C05-45B6-AD0F-1147818BD225",
+  "do_objectID": "3F5D999F-D34C-482E-A33A-08B8F302A73D",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C06DD39C-CEF8-4788-BDE0-0564C171A774",
+    "do_objectID": "634343A9-4081-4D5B-B613-F96B1B29501C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,11 +25,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C6B0D70E-4ADF-4EFF-95E5-5C2FCFE861CB",
-    "height": 667,
-    "width": 375,
-    "x": 239,
-    "y": 3512
+    "do_objectID": "53E78F87-011F-442D-8484-43B1399C82DB",
+    "height": 38,
+    "width": 118,
+    "x": 1042,
+    "y": 192
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -36,11 +37,12 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "C501025B-4AD8-4A1E-808A-7CFB8D1346EB",
+    "do_objectID": "43742606-6B4D-4962-A27D-171E55A49D42",
     "guides": [
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -48,43 +50,39 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "A18F509B-8C98-4968-BCA8-B4CA294DED0A"
-    },
-    {
       "class": "group",
-      "id": "7971BC0B-DE4E-4BFD-93B7-0D1AF12F265D"
+      "id": "F738E177-3DB0-4E3D-B6BE-5F84CC5AD17A"
     }
   ],
-  "name": "1",
+  "name": "wireframe / button / c2a copy",
   "nameIsFixed": true,
-  "presetDictionary": {
-    "allowResizedMatching": 1,
-    "height": 667,
-    "name": "iPhone 8",
-    "offersLandscapeVariant": 1,
-    "width": 375
-  },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "F6410C9D-46EC-41C1-8059-88A062F3B1A7",
+    "do_objectID": "D5B41B3E-2CDD-44B6-ADC4-319F76A3B2B6",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "A7292BF5-868D-4C3F-B29D-45E3AA240B12",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "17ABE757-7521-4A67-BB92-326E129D3CEB",
+    "do_objectID": "44588100-71CA-4A81-99B0-ECCB7C0BEA2E",
     "guides": [
     ]
   }
